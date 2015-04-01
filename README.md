@@ -1,6 +1,10 @@
-Blog For Everybody
+# Blog For Everybody
+
+HEROKU version!!!
 =========
 
+History Blog For Everybody
+------------
 I had the idea!Make a blog just is not like other blogs.
 
 In this blog you can:
@@ -10,6 +14,8 @@ Post anything!
 About anything!
 
 And read anyone!
+
+I gave the name of the mind "Blog For Everybody"
 
 Of course this blog is present, the content that is to beat each blog.
 
@@ -28,7 +34,7 @@ My application made by a Python + Flask
 
 More information about what was used can be found `requirements.txt`
 
-You can also test my app[here](http://blog-fore-everybody.herokuapp.com)
+You can also test my app [here](http://blog-fore-everybody.herokuapp.com)
 
 
 Installation and Running
